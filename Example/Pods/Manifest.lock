@@ -1,0 +1,16 @@
+PODS:
+  - hiPodLib1 (0.1.0)
+
+DEPENDENCIES:
+  - hiPodLib1 (from `../`)
+
+EXTERNAL SOURCES:
+  hiPodLib1:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  hiPodLib1: ce2fe459db572c34caf829d5cfb0c4df86cb6de7
+
+PODFILE CHECKSUM: 501350c9de7483b80701ebb427e404d08900cb0d
+
+COCOAPODS: 1.5.3

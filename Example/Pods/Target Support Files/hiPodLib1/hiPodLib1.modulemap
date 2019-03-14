@@ -1,0 +1,6 @@
+framework module hiPodLib1 {
+  umbrella header "hiPodLib1-umbrella.h"
+
+  export *
+  module * { export * }
+}
