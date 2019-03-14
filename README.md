@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # hiPodLib1
 
 [![CI Status](https://img.shields.io/travis/CrazyBeats/hiPodLib1.svg?style=flat)](https://travis-ci.org/CrazyBeats/hiPodLib1)
@@ -27,3 +28,7 @@ CrazyBeats, zhujinguang@hisense.com
 ## License
 
 hiPodLib1 is available under the MIT license. See the LICENSE file for more info.
+=======
+# ZRepo
+私有仓库，用作组件化开发研究调试
+>>>>>>> 606d2080eb671e2e905f97ce431157c72c79c98c
